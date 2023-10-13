@@ -1,1 +1,34 @@
+Name: Pilligundla Kusumanjali
+Learning Track: Developer
+Email: pkusumanjali0@gmail.com
+Trailhead Profile: https://www.salesforce.com/trailblazer/pilligundlakusumanjali
+Username (Developer Org): pkusumanjali0@gdcproject.com
+Contact: 7661857778
 
+Name: Chitteti Lavanya
+Learning Track: Developer
+Email: chittetilavanya199@gmail.com
+Trailhead Profile: https://www.salesforce.com/trailblazer/chittetilavanya 
+Username(Developer Org): chittetilavanya199@gdcproject.com
+Contact: 9391280401
+
+Name: Pamamjeri Richitha
+Learning Track: Developer
+Email: pamamjeririchitha@gmail.com
+Trailhead Profile: https://www.salesforce.com/trailblazer/richithapamamjeri
+Username(Developer Org): pamamjeririchitha@gdcproject.com
+Contact: 9949153854
+
+Name: Kuppam Vasanthi
+Learning Track: Developer
+Email: vasanthipooja2004@gmail.com
+Trailhead Profile: https://www.salesforce.com/trailblazer/vasanthikuppam
+Username(Developer Org): vasanthipooja2004@gdcproject.com
+Contact: 6300463835
+
+Name: Kalathuru Mamatha 
+Learning Track: Developer
+Email: mamatha8940@gmail.com
+Trailhead Profile: https://www.salesforce.com/trailblazer/mamathakalathuru
+Username(Developer Org): mamatha8940@gdcproject.com
+Contact: 9381371081
